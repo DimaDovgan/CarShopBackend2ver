@@ -1,0 +1,5 @@
+node_modules/
+.env
+helpers/fillingDtes/modifications/foo/foo.js
+helpers/fillingDtes/modifications/foo/foo1.txt
+coverUp.jpg
